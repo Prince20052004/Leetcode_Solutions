@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1759-count-number-of-homogenous-substrings) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
 |  |
 | ------- |
