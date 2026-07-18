@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0171-excel-sheet-column-number) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0171-excel-sheet-column-number) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1446-consecutive-characters](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1446-consecutive-characters) |
