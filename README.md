@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1260-shift-2d-grid](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
