@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Array
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Greedy
 |  |
 | ------- |
