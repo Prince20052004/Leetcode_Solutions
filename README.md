@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1759-count-number-of-homogenous-substrings](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Greedy
