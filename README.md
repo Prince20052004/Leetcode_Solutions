@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2706-buy-two-chocolates](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2706-buy-two-chocolates) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2706-buy-two-chocolates](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2706-buy-two-chocolates) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
 |  |
