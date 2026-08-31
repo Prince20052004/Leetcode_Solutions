@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0221-maximal-square](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0221-maximal-square) |
+| [0413-arithmetic-slices](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0413-arithmetic-slices) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0413-arithmetic-slices](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0413-arithmetic-slices) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2537-count-the-number-of-good-subarrays) |
@@ -283,4 +285,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0091-decode-ways](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0091-decode-ways) |
 | [0221-maximal-square](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0221-maximal-square) |
+| [0413-arithmetic-slices](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0413-arithmetic-slices) |
 <!---LeetCode Topics End-->
