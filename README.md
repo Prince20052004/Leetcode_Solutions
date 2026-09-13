@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0221-maximal-square) |
 | [0413-arithmetic-slices](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0413-arithmetic-slices) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0835-image-overlap) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1260-shift-2d-grid](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0221-maximal-square](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0221-maximal-square) |
+| [0835-image-overlap](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
 ## Bit Manipulation
 |  |
