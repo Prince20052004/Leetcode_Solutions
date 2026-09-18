@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0316-remove-duplicate-letters](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1673-find-the-most-competitive-subsequence) |
@@ -337,4 +338,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0836-rectangle-overlap) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
