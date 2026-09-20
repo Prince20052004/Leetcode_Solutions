@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
