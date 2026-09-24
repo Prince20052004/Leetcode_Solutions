@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3330-find-the-original-typed-string-i](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3330-find-the-original-typed-string-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
