@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -339,11 +340,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0222-count-complete-tree-nodes](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0222-count-complete-tree-nodes](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Game Theory
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0091-decode-ways](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0221-maximal-square](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0221-maximal-square) |
 | [0413-arithmetic-slices](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0413-arithmetic-slices) |
@@ -406,4 +410,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
