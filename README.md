@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2706-buy-two-chocolates](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2706-buy-two-chocolates) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2706-buy-two-chocolates](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2706-buy-two-chocolates) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2094-finding-3-digit-even-numbers) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2706-buy-two-chocolates](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2706-buy-two-chocolates) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
 |  |
@@ -337,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Counting Sort
 |  |
 | ------- |
