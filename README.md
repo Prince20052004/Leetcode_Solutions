@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2537-count-the-number-of-good-subarrays](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2706-buy-two-chocolates](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2706-buy-two-chocolates) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2537-count-the-number-of-good-subarrays) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2706-buy-two-chocolates](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2706-buy-two-chocolates) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
