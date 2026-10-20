@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3024-type-of-triangle](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3024-type-of-triangle) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3151-special-array-i](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3151-special-array-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
