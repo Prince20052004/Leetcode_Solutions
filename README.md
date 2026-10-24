@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0278-first-bad-version](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0278-first-bad-version) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -462,4 +463,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
