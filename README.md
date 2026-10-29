@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0137-single-number-ii) |
 | [0221-maximal-square](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0221-maximal-square) |
 | [0413-arithmetic-slices](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0413-arithmetic-slices) |
+| [0463-island-perimeter](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0463-island-perimeter) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0835-image-overlap) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0221-maximal-square](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0221-maximal-square) |
+| [0463-island-perimeter](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0463-island-perimeter) |
 | [0835-image-overlap](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0463-island-perimeter](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0463-island-perimeter) |
 | [1254-number-of-closed-islands](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -482,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0463-island-perimeter](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0463-island-perimeter) |
 | [1254-number-of-closed-islands](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
