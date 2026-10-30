@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3085-minimum-deletions-to-make-string-k-special](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3330-find-the-original-typed-string-i](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3330-find-the-original-typed-string-i) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3085-minimum-deletions-to-make-string-k-special](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3085-minimum-deletions-to-make-string-k-special](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3085-minimum-deletions-to-make-string-k-special](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -261,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3024-type-of-triangle](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3024-type-of-triangle) |
+| [3085-minimum-deletions-to-make-string-k-special](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
