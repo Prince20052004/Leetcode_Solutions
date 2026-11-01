@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0171-excel-sheet-column-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0137-single-number-ii) |
 | [0221-maximal-square](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0221-maximal-square) |
 | [0413-arithmetic-slices](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0413-arithmetic-slices) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0463-island-perimeter](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0463-island-perimeter) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0835-image-overlap) |
