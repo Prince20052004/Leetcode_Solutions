@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0205-isomorphic-strings) |
 | [0316-remove-duplicate-letters](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0678-valid-parenthesis-string](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0856-score-of-parentheses) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0205-isomorphic-strings) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
