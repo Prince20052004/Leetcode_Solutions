@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0205-isomorphic-strings) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
@@ -513,4 +515,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0463-island-perimeter) |
 | [1254-number-of-closed-islands](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
