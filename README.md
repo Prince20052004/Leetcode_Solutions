@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0205-isomorphic-strings) |
 | [0316-remove-duplicate-letters](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0383-ransom-note) |
+| [0520-detect-capital](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
