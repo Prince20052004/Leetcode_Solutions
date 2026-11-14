@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3151-special-array-i](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3151-special-array-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Stack
 |  |
 | ------- |
