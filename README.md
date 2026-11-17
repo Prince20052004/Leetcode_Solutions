@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-star-sum-of-a-graph](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2537-count-the-number-of-good-subarrays) |
+| [2670-find-the-distinct-difference-array](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2670-find-the-distinct-difference-array) |
 | [2706-buy-two-chocolates](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2706-buy-two-chocolates) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2537-count-the-number-of-good-subarrays) |
+| [2670-find-the-distinct-difference-array](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2670-find-the-distinct-difference-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
