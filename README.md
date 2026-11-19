@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-star-sum-of-a-graph](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2537-count-the-number-of-good-subarrays) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2670-find-the-distinct-difference-array](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2670-find-the-distinct-difference-array) |
 | [2706-buy-two-chocolates](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2706-buy-two-chocolates) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2497-maximum-star-sum-of-a-graph) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2706-buy-two-chocolates](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2706-buy-two-chocolates) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2497-maximum-star-sum-of-a-graph) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2706-buy-two-chocolates](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2706-buy-two-chocolates) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
