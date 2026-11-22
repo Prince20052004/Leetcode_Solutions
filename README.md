@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
