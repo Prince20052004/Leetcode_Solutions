@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0463-island-perimeter) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0706-design-hashmap](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0706-design-hashmap) |
 | [0835-image-overlap](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0835-image-overlap) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0383-ransom-note) |
+| [0706-design-hashmap](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0706-design-hashmap) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0706-design-hashmap](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0706-design-hashmap) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Queue
 |  |
@@ -560,8 +563,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0706-design-hashmap](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0706-design-hashmap) |
 ## Data Stream
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
