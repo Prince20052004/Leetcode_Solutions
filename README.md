@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2706-buy-two-chocolates](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2706-buy-two-chocolates) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Monotonic Stack
