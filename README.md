@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3024-type-of-triangle) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3151-special-array-i](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3151-special-array-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Prince20052004/Leetcode_Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Bit Manipulation
